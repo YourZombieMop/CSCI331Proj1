@@ -1,5 +1,12 @@
 #include <stdio.h>
 #include <time.h>
+/*
+NOTE:
+it has come to my attention that we are
+allowed to write this assignment in Java.
+Therefore, I will be abandoning this file
+and beginning a Java implementation.
+*/
 
 /* Process Manager */
 
